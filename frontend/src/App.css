@@ -82,3 +82,9 @@ body, input, button {
 .content button.btn:hover{
   background: #e14f50;
 }
+
+.content form label span{
+  font-weight: normal;
+  columns: #999;
+  font-size: 12px;
+}
